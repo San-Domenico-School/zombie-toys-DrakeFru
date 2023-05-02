@@ -575,6 +575,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DollArm
       objectReference: {fileID: 0}
+    - target: {fileID: 1601371131141328242, guid: 09e4eaf598ac64c2896a14f767582b6e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1601371131985789356, guid: 09e4eaf598ac64c2896a14f767582b6e,
         type: 3}
       propertyPath: m_Size.x
@@ -2674,6 +2679,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dollhouse
       objectReference: {fileID: 0}
+    - target: {fileID: 4671363674644532621, guid: 90e16d48812b147c79df72551943dadd,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4671363674644828589, guid: 90e16d48812b147c79df72551943dadd,
         type: 3}
       propertyPath: m_RootOrder
@@ -3191,6 +3201,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blox
       objectReference: {fileID: 0}
+    - target: {fileID: 7521766709210333131, guid: d4c9bb246d608472e9bd19e95b5ae874,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4c9bb246d608472e9bd19e95b5ae874, type: 3}
 --- !u!1 &712983108
@@ -3302,6 +3317,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Stool
       objectReference: {fileID: 0}
+    - target: {fileID: 2409066113989676428, guid: 67928d35a5cc64989a56f23557209e93,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 2409066113990037932, guid: 67928d35a5cc64989a56f23557209e93,
         type: 3}
       propertyPath: m_RootOrder
@@ -3370,6 +3390,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Firetruck
+      objectReference: {fileID: 0}
+    - target: {fileID: 8427823955729587527, guid: c8c315caced7344f8b178725c39f7bab,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8427823955729809767, guid: c8c315caced7344f8b178725c39f7bab,
         type: 3}
@@ -3828,6 +3853,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Clock
       objectReference: {fileID: 0}
+    - target: {fileID: 1096490090761988570, guid: dbaadf0a9d3494038a95d1558ee43ecf,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1096490090762155514, guid: dbaadf0a9d3494038a95d1558ee43ecf,
         type: 3}
       propertyPath: m_RootOrder
@@ -4005,6 +4035,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Arches
+      objectReference: {fileID: 0}
+    - target: {fileID: 212561039927210664, guid: 8fe1f924882fe416fb9ba48d160a5d16,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 212561039927373448, guid: 8fe1f924882fe416fb9ba48d160a5d16,
         type: 3}
@@ -4771,6 +4806,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Robot
       objectReference: {fileID: 0}
+    - target: {fileID: 8641491159940628232, guid: 66dd72fda810641119763dbc9179b631,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 8641491159941112616, guid: 66dd72fda810641119763dbc9179b631,
         type: 3}
       propertyPath: m_RootOrder
@@ -5303,6 +5343,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Train
+      objectReference: {fileID: 0}
+    - target: {fileID: 934554141954676688, guid: cdee4dadb9b2e46db95bff0f3daa464a,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cdee4dadb9b2e46db95bff0f3daa464a, type: 3}
@@ -6930,6 +6975,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Drawers
       objectReference: {fileID: 0}
+    - target: {fileID: 1383499351767115229, guid: 0581a1b828fe340b494a8b5cebd5ad51,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1383499352275819866, guid: 0581a1b828fe340b494a8b5cebd5ad51,
         type: 3}
       propertyPath: m_Size.x
@@ -7342,6 +7392,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: SpinningTop
       objectReference: {fileID: 0}
+    - target: {fileID: 8994246874581211620, guid: 66bfc4063d5fb446e8176765db5fb65f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66bfc4063d5fb446e8176765db5fb65f, type: 3}
 --- !u!4 &1936095583 stripped
@@ -7519,6 +7574,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hearse
+      objectReference: {fileID: 0}
+    - target: {fileID: 4445321312994683093, guid: 80349a5f5ebe24fd1a2148cad2dcfbf5,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80349a5f5ebe24fd1a2148cad2dcfbf5, type: 3}
