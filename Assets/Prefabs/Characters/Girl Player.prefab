@@ -111,8 +111,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Cooldown: 1
-  damage: 20
-  range: 20
+  damage: 1000
+  range: 10
   strikeableMask:
     serializedVersion: 2
     m_Bits: 512
